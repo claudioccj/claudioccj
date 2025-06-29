@@ -1,7 +1,21 @@
-<h1 align="left">Hello there!</h1>
+# 👋 Hi, I'm Claudio
+### *Software Developer | Full-Stack Developer*
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+🚀 **About Me:**  
+Passionate about software development, problem-solving, and building efficient solutions. I love learning new technologies and collaborating on innovative projects.  
 
-<br>
+💻 **Tech Stack:**  
+- **Languages:** Python, JavaScript  
+- **Frontend:** HTML/CSS, React, Vue.js  
+- **Backend:** Node.js, Django  
+- **Databases:** SQL, MongoDB, Firebase  
+- **DevOps & Tools:** Git, Docker, AWS/GCP  
 
-<img align='left' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZwYTkyd3ZzYzYzbGNxcHo1ZWFobGs4ZGZvM3B1OWZnc3lud3VtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="230">
+📫 **How to Reach Me:**  
+- 📧 Email: cusijustoc@gmail.com
+
+📊 **GitHub Stats:**  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudioccj&show_icons=true&theme=dark)](https://github.com/claudioccj)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioccj&layout=compact&theme=dark)](https://github.com/claudioccj)  
+
+⭐ **"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."**  
